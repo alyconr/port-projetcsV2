@@ -7,7 +7,7 @@
   <img src="./img/LOGOv2.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>PERSONAL PORTFOLIO PROJECT</b></h3>
+  <h3><b>PERSONAL PORTFOLIO PROJECT V2</b></h3>
 
 </div>
 
