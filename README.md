@@ -38,9 +38,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [PERSONAL PORTFOLIO PROJECT] <a name="about-project"></a>
+# 📖 [PERSONAL PORTFOLIO PROJECT V2] <a name="about-project"></a>
 
-  **[Personal Portfolio Project]** This is a second version of mypersonal portfolio project using the second Micorverse Template. In where I have implemented the main features of the project using images and backgrounds from Figma template, I have used  the  main concepts of flexbox layout to design a flexbox responsive layout structure acording to the methodology 'Mobil first'. I have applied the best html, css and javascript code practices. 
+  **[Personal Portfolio Project V2]** This is a second version of mypersonal portfolio project using the second Micorverse Template. In where I have implemented the main features of the project using images and backgrounds from Figma template, I have used  the  main concepts of flexbox layout to design a flexbox responsive layout structure acording to the methodology 'Mobil first'. I have applied the best html, css and javascript code practices. 
 
 ## 🛠 Built With <a name="built-with"></a>
 <p> This project was built using:
