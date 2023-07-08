@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="./img/logov2.png" alt="logo" width="140"  height="auto" />
+  <img src="./img/LOGOv2.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>PERSONAL PORTFOLIO PROJECT</b></h3>
