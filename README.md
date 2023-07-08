@@ -109,7 +109,7 @@
 
 - [Live Demo Link](https://github.com/alyconr/port-projetcsV2/)
 
-![](https://i.imgur.com/nppe0wH.gif)
+
 
 <!-- GETTING STARTED -->
 
